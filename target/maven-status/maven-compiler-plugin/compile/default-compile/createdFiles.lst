@@ -1,0 +1,4 @@
+com\espark\adarsh\configuration\security\SecurityConfiguration.class
+com\espark\adarsh\Application.class
+com\espark\adarsh\configuration\security\SecurityConfiguration$AuthenticationConfiguration.class
+com\espark\adarsh\configuration\web\WbMvcConfiguration.class
